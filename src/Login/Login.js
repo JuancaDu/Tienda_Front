@@ -95,9 +95,8 @@ function Login() {
             <div className="row">
               <h1 className="estilo_Footer_Login">Proyecto tienda genérica </h1>
               <h2 className="estilo_Footer_Login">Universidad El Bosque</h2>
-              <h2 className="estilo_Footer_Login">
-                Ciclo 4 Desarrollo Web.
-              </h2>
+              <h2 className="estilo_Footer_Login">Ciclo 4 Desarrollo Web.</h2>
+              <h2 className="estilo_Footer_Login">Grupo 14</h2>
             </div>
           </div>
         </div>
